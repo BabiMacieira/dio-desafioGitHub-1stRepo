@@ -1,0 +1,17 @@
+ls - listar pastas
+ls -a (flag que mostra arquivos ocultos) - 
+cd - entrar na pasta
+clear - limpa tudo ou Ctrl+l
+mkdir - criar diretório/pasta
+git init - inicializar e possibilitar que o git comece de fato a versionar e gerenciar o código
+.. - reward (voltar nível)
+
+iniciais:
+git config --global user.email "informaOemail@gmail.com"
+git config --global user.name InformaOnome
+
+Comitar arquivo:
+Commits são os objetos do git que dão significado às operações, e estes objetos carregam uma msg de texto juntamente com outros metadados.
+git add*
+git commit -m "commit inicial"
+// após o comando, o git trará informações
